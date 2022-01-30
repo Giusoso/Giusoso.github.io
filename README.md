@@ -1,2 +1,3 @@
 # Giusoso.github.io
-I want to create a website for my personal progress log 
+Want to create a minimal website for my personal progress log in c++ an hacking.
+Created the template using a website
